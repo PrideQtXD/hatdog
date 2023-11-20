@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: system-ui;
+}
+
+.Movie1 {
+  background-color: beige;
+}
+
+.Movie2 {
+  background-color: beige;
+}
+
+.Movie3 {
+  background-color: beige;
+}
+
+.Movie4 {
+  background-color: beige;
+}
+
+.Movie5 {
+  background-color: beige;
+}
+
+.About-us {
+    text-align: center;
+    background-color: rgb(88, 74, 88);
+     background-image: url(img/movie.jpg)
+  }
+  h1{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+  }
+  img {
+    border-radius: 5%;
+  }
+ 
+  p {
+    font-size: 20px;
+    color: black;
+  }
+  h3 {
+    text-shadow:
+  }
+  
+  a {
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    background: rgb(0, 0, 0);
+    color: rgb(85, 0, 255);
+    border-radius: 8px;
+   font-size: 50;
+   
+ }
+   .column {
+    float: left;
+    width: 32%;
+    margin-bottom: 0px;
+    padding: 0 9.7px;
+  }
+
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3)
+    margin: 10px;
+    background-color: rgb(187, 58, 58);
+  }
+  .card img {
+     height: 250px;
+  }
+
+
+  .p1 {
+    color: white;
+  }
+
+  

@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    font-family: system-ui;
+  }
+  .Movie1 {
+    background-color: beige;
+    background-image: url(img/you\ are\ the\ apple\ of\ my\ eye.jp);
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+
+  .column {
+    float: left;
+    width: 50%;
+    margin-bottom: 0px;
+    padding: 0 9.7px;
+  }
+
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3)
+    margin: 50px;
+    background-color: rgb(187, 58, 58);
+  }
+  .card img {
+     height: 350px;
+  }
